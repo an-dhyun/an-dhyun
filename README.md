@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DoHyun%20An&fontSize=90)
+ <!--[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DoHyun%20An&fontSize=90)-->
 
  <div align=center>
  
@@ -19,4 +19,4 @@ Studying|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-t
 Contact|![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dhyun&&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dhyun&&show_icons=true&theme=default)
