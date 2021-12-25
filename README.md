@@ -14,9 +14,9 @@
  - 💞️ I’m looking to work on ```AI using 3D data```.
 
 ## 👉🏻 Activities
-- 동국대학교 통계학회 B.a.f 8th
+- B.a.f 8th
 - DGU AIC Server Administrator
-- 실내 3D 객체 데이터 활용 학부연구생
+- NIA 3D data researcher
 
 ## 👉🏻 Stack
 
