@@ -6,7 +6,7 @@
  
  </div>
  
- - 👋 Hi, I’m ```An Do Hyun```.
+ - 👋 Hi, I’m ```An Do Hyun```, ongrowing developer.
  - 👀 I’m interested in ```Deep Learning```.
  - 🌱 I’m currently learning ```Statistics, AI```.
  - 💞️ I’m looking to work on ```AI using 3D data```.
