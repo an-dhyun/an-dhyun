@@ -6,14 +6,12 @@
  
  </div>
  
- - 👋 Hi, I’m An Do Hyun.
- - 👀 I’m interested in AI, Deep Learning.
- - 🌱 I’m currently learning Statistics, AI.
- - 💞️ I’m looking to work on 3D data processing.
- - 📫 How to reach me 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:god2000sus@naver.com)
+ ##### 👋 Hi, I’m An Do Hyun.
+ ##### 👀 I’m interested in AI, Deep Learning.
+ ##### 🌱 I’m currently learning Statistics, AI.
+ ##### 💞️ I’m looking to work on 3D data processing.
 
-Technologies
+## Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -27,14 +25,13 @@ Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
-Studying
+## Studying
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Contact
+## Contact
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
