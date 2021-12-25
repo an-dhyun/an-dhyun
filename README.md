@@ -24,7 +24,7 @@ Contact|![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=fo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dhyun&&show_icons=true&theme=gradient) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=fight0309)](https://solved.ac/fight0309)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an-dhyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=fight0309)](https://solved.ac/fight0309)
 
 
 
