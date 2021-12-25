@@ -6,12 +6,19 @@
  
  </div>
  
+ ## 👉🏻 About me
+ 
  - 👋 Hi, I’m ```An Do Hyun```, an ongrowing developer!
  - 👀 I’m interested in ```Deep Learning```.
  - 🌱 I’m currently learning ```Statistics, AI```.
  - 💞️ I’m looking to work on ```AI using 3D data```.
 
----
+## 👉🏻 Activities
+- 동국대학교 통계학회 B.a.f 8th
+- DGU AIC Server Administrator
+- 실내 3D 객체 데이터 활용 학부연구생
+
+## 👉🏻 Stack
 
 skill|Series
 ---|---
@@ -21,7 +28,7 @@ Cowork|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the
 IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 Contact|![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  
----
+## 👉🏻 Ability
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dhyun&&show_icons=true&theme=prussian) 
 
