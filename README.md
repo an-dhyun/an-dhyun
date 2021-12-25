@@ -11,7 +11,7 @@
  - 👋🏻 Hi, I’m ```An Do Hyun```, an ongrowing developer!
  - 👀 I’m interested in ```Deep Learning```.
  - 🌱 I’m currently learning ```Statistics, AI```.
- - 💞️ I hope to work for ```AI using 3D data```.
+ - 💞️ I hope to work for ```AI Robotics```.
 
 ## 🏋🏻‍♀️ Activities
 - B.a.f 8th
