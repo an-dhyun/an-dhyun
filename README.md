@@ -16,7 +16,7 @@
 ## 🏋🏻‍♀️ Activities
 - B.a.f 8th
 - DGU AIC Server Administrator
-- NIA 3D Data Student Researcher
+- NIA 3D Data Student Researcher (https://hub.docker.com/u/god2000sus)
 
 ## 🎯 Stack
 
