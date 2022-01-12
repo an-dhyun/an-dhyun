@@ -12,6 +12,7 @@
  - 👀 I’m interested in ```Deep Learning```.
  - 🌱 I’m currently learning ```Statistics, AI```.
  - 💞️ I hope to work for ```AI Robotics```.
+ - Notion Portfolio : https://imported-daughter-3fa.notion.site/DoHyun-An-s-Portfolio-266375132c1d429eb410072654cb3c3c
 
 ## 🏋🏻‍♀️ Activities
 - B.a.f 8th
