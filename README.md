@@ -12,12 +12,11 @@
  - 👀 I’m interested in ```Deep Learning```.
  - 🌱 I’m currently learning ```Statistics, AI```.
  - 💞️ I hope to work for ```Data Science```.
- - Notion Portfolio : https://imported-daughter-3fa.notion.site/DoHyun-An-s-Portfolio-266375132c1d429eb410072654cb3c3c
 
 ## 🏋🏻‍♀️ Activities
 - B.a.f 8th
 - DGU AIC Server Administrator
-- NIA 3D Data Student Researcher (https://hub.docker.com/u/god2000sus)
+- NIA 3D Data Student Researcher 
 
 ## 🎯 Stack
 
