@@ -9,9 +9,8 @@
 ## 👩🏻‍💻 About me
  
  - 👋🏻 Hi, I’m ```An Do Hyun```, an ongrowing developer!
- - 👀 I’m interested in ```Deep Learning```.
- - 🌱 I’m currently learning ```Statistics, AI```.
- - 💞️ I hope to work for ```Data Science```.
+ - 🌱 I’m currently learning ```Statistics, Data Science```.
+ - 👀 I’m interested in ```Machine Learning```.
 
 ## 🏋🏻‍♀️ Activities
 - B.a.f 8th
