@@ -29,7 +29,7 @@ IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-00
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dhyun&&show_icons=true&theme=prussian) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an-dhyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=fight0309)](https://solved.ac/fight0309)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=fight0309)](https://solved.ac/fight0309)
 
 
 
