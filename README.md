@@ -1,10 +1,6 @@
  <!--[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DoHyun%20An&fontSize=90)-->
 
- <div align=center>
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fan-dhyun%2Fhit-counter&count_bg=%2314D8E6&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
- 
- </div>
+
  
 ## 👩🏻‍💻 About me
  
@@ -31,5 +27,9 @@ IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-00
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=fight0309)](https://solved.ac/fight0309)
 
 
-
+ <div align=center>
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fan-dhyun%2Fhit-counter&count_bg=%2314D8E6&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
+ 
+ </div>
 
