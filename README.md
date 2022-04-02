@@ -2,18 +2,18 @@
 
 
  
-## 👩🏻‍💻 About me
+## 🔎 About me
  
  - 👋🏻 Hi, I’m ```An Do Hyun```, an ongrowing developer!
  - 🌱 I’m currently learning ```Statistics, Data Science```.
  - 👀 I’m interested in ```Machine Learning```.
 
-## 🏋🏻‍♀️ Activities
+## 🐾 Activities
 - B.a.f 8th
 - DGU AIC Server Administrator
 - NIA 3D Data Student Researcher 
 
-## 🎯 Stack
+## 👩🏻‍💻 Stack
 
 skill|Series
 ---|---
