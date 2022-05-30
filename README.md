@@ -11,7 +11,7 @@
 ## 🐾 Activities
 - B.a.f 8th
 - DGU AIC Server Administrator
-- NIA 3D Data Student Researcher 
+- 2021 NIA 3D Student Researcher 
 
 ## 👩🏻‍💻 Stack
 
