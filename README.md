@@ -8,11 +8,6 @@
  - I’m currently learning ```Statistics, Data Science```.
  - I’m interested in ```Machine Learning```.
 
-## 🐾 Activities
-- B.a.f 8th
-- DGU AIC Server Administrator
-- 2021 NIA 3D Student Researcher 
-
 ## 👩🏻‍💻 Stack
 
 skill|Series
@@ -21,7 +16,6 @@ Languages|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-bad
 Cowork|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 IDE|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
  
-## 🎱 Ability
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dhyun&&show_icons=true&theme=prussian) 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=fight0309)](https://solved.ac/fight0309)
